@@ -1,3 +1,4 @@
 ## 吉田・山仲研究室ホームページ
 
-https://ktysd-lab.github.io/
+https://github.com/ktysd-lab/home/wiki
+<!-- https://ktysd-lab.github.io/ -->
